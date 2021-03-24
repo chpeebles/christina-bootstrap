@@ -1,4 +1,10 @@
-# ICJ Bootstrap Template
+# Christina's Boostrap in-class assignment
+
+By Christina Peebles, Intro to Coding for Journalists class
+
+This repo is a class assignment to practice Bootstrap. It is due March 26, 2021.
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
